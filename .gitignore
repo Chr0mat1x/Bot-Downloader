@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Env-файлы
+.env
+
+# База данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Загруженные файлы
+downloads/
+*.mp4
+*.mkv
+*.webm
+
+# IDE
+.vscode/
+.idea/
